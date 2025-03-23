@@ -4,6 +4,7 @@
 #except jupyter-notebooks and csv
 !*.ipynb
 !*.csv
+!*.md
 
 # Also don't ignore the main folders
 !pandas/
