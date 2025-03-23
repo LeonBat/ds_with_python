@@ -6,7 +6,7 @@
 !*.csv
 
 # Also don't ignore the main folders
-!<pandas>
-!<numpy>
-!<scipy>
-!<seaborn>
+!pandas/
+!numpy/
+!scipy/
+!seaborn/
