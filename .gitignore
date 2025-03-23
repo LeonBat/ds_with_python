@@ -1,0 +1,6 @@
+#Ignore everything
+*
+
+#except jupyter-notebooks and csv
+!*.ipynb
+!*.csv
